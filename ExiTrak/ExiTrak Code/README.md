@@ -1,2 +1,1 @@
-# ExiTrak
-BME 462 Project
+# ExiTrak Code
