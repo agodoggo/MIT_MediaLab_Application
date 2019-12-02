@@ -7,4 +7,8 @@ With this project, healthcare workers can keep their patients accountable and im
 
 Please see Project_Explanation.pdf for more details on the background of the project.
 
-ExiTrak Report contains the latest design report from the group on the project.
+Folder ExiTrak Report contains the latest design report from the group on the project.
+
+Folder ExiTrak Code contains the final software used.
+
+Folder ExiTrak CAD contains the current CAD prototypes being used for the MVP.
