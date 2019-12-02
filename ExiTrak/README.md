@@ -6,3 +6,5 @@ The patients in these areas suffer from high rates of COPD and diabetes, and hea
 With this project, healthcare workers can keep their patients accountable and improve the community's quality of life.
 
 Please see Project_Explanation.pdf for more details on the background of the project.
+
+ExiTrak Report contains the latest design report from the group on the project.
