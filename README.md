@@ -1,7 +1,7 @@
 # MIT_MediaLab_Application
 Portfolio to accompany MIT MediaLab Application
 
-This Portfolio contains 6 projects that showcase my abilities.
+This Portfolio contains 7 projects that showcase my abilities.
 
 (1) ExiTrak is a current design project to improve health outcomes for patients suffering from COPD and diabetes in rural West Virginia.
 
